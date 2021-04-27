@@ -1,4 +1,4 @@
-package pl.AdamPodoluch.SpringMysql.Service;
+package pl.AdamPodoluch.SpringMysql.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
